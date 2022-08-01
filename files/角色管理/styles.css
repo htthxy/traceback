@@ -713,7 +713,7 @@
   width:160px;
   height:54px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -746,7 +746,7 @@
   width:160px;
   height:54px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -780,7 +780,7 @@
   width:160px;
   height:54px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -917,7 +917,7 @@
   width:220px;
   height:54px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -1019,7 +1019,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1052,7 +1052,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1086,7 +1086,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -1223,7 +1223,7 @@
   width:220px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -1325,7 +1325,7 @@
   width:160px;
   height:52px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1358,7 +1358,7 @@
   width:160px;
   height:52px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1392,7 +1392,7 @@
   width:160px;
   height:52px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -1529,7 +1529,7 @@
   width:220px;
   height:52px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -1631,7 +1631,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1664,7 +1664,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1698,7 +1698,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -1835,7 +1835,7 @@
   width:220px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -1937,7 +1937,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1970,7 +1970,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -2004,7 +2004,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -2141,7 +2141,7 @@
   width:220px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -2243,7 +2243,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -2276,7 +2276,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -2310,7 +2310,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#AAAAAA;
@@ -2447,7 +2447,7 @@
   width:220px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -2549,7 +2549,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -2582,7 +2582,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -2616,7 +2616,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -2753,7 +2753,7 @@
   width:220px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -2855,7 +2855,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -2888,7 +2888,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -2922,7 +2922,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -3059,7 +3059,7 @@
   width:220px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
@@ -3161,7 +3161,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -3194,7 +3194,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -3228,7 +3228,7 @@
   width:160px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#19BE6B;
@@ -3365,7 +3365,7 @@
   width:220px;
   height:55px;
   display:flex;
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#1890FF;
